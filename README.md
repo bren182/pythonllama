@@ -26,6 +26,12 @@ Download Python [here](https://www.python.org/downloads/)
 
 ## Instructions
 
+Make sure you have the `llama3.2:3b` model installed in your local Ollama instance. 
+`ollama list` will output all available models. 
+
+If you do not see `llama3.2:3b`, then run `ollama run llama3.2:3b` 
+
+Now you can start using the program `main.py`!
 1. Write a python script... `python main.py "write a python script which adds two numbers, ask the user for input for both numbers" "llama"`
 2. Write me a joke... `python main.py "write a joke" "llama"`
 
