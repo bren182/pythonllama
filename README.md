@@ -26,3 +26,9 @@ Download Python [here](https://www.python.org/downloads/)
 Currently function calling only built for the Ollama model (`llama3.2:3b` used). 
 
 The program will output any written files to a folder called `made_by_ai`. 
+
+## Known bugs
+
+When asking for a simple joke, sometimes the punch-line gets left out. 
+
+Sometimes the output of writing to a file gets cut off. Need to figure out why this happens and a strategy to prevent the program from finishing execution before all content has been written. 
