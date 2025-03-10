@@ -12,11 +12,12 @@ Use `llama3.2:3b` LLM model to perform tasks.
 
 Download ollama [here](https://ollama.com/download)
 
-Download Python here
+Download Python [here](https://www.python.org/downloads/)
 
 ## Example Usage 
 
-`python main.py "write a python script which adds two numbers, ask the user for input for both numbers" "llama"`
+1. Write a python script... `python main.py "write a python script which adds two numbers, ask the user for input for both numbers" "llama"`
+2. Write me a joke... `python main.py "write a joke" "llama"`
 
 - The main.py takes two arguments: 
     - The prompt
