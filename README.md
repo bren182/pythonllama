@@ -4,7 +4,7 @@ LLM agent to demo basic function-calling, in this project we want to prompt an L
 
 We can ask the program to write anything to a file!
 
-## PyOllama agent with function calling'
+## PyOllama agent with function calling
 
 This project requires at least `Python 3.13.1` and a local Ollama instance running on your machine. 
 
