@@ -21,7 +21,8 @@ Download Python [here](https://www.python.org/downloads/)
 
 ### Output of terminal
 
-![output](https://github.com/user-attachments/assets/ac1c35b4-1ac3-464c-bebf-274e10787638)
+![output](https://github.com/user-attachments/assets/d26cd561-b5f8-4a76-89c0-1d2d6a3a5327)
+
 
 ## Instructions
 
