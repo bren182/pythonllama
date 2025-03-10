@@ -31,6 +31,10 @@ Make sure you have the `llama3.2:3b` model installed in your local Ollama instan
 
 If you do not see `llama3.2:3b`, then run `ollama run llama3.2:3b` 
 
+Finally, make sure you install the `requirements.txt` using `pip install -r requirements.txt` 
+
+Make a directory for the generated AI files: `made_by_ai`
+
 Now you can start using the program `main.py`!
 1. Write a python script... `python main.py "write a python script which adds two numbers, ask the user for input for both numbers" "llama"`
 2. Write me a joke... `python main.py "write a joke" "llama"`
