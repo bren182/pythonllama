@@ -16,12 +16,24 @@ Download Python [here](https://www.python.org/downloads/)
 
 ## Example Usage 
 
+### Running from terminal  
+![run_program](https://github.com/user-attachments/assets/da9767b8-f503-4bc4-9d75-183e9cee9fde)
+
+### Output of terminal
+
+![output](https://github.com/user-attachments/assets/ac1c35b4-1ac3-464c-bebf-274e10787638)
+
+## Instructions
+
 1. Write a python script... `python main.py "write a python script which adds two numbers, ask the user for input for both numbers" "llama"`
 2. Write me a joke... `python main.py "write a joke" "llama"`
 
 - The main.py takes two arguments: 
     - The prompt
     - The model we are running as an "agent"
+ 
+
+
 
 Currently function calling only built for the Ollama model (`llama3.2:3b` used). 
 
